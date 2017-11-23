@@ -1,3 +1,7 @@
+# Project specific
+/assets
+/db
+
 # Logs
 logs
 *.log

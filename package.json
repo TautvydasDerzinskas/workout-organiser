@@ -1,0 +1,24 @@
+{
+  "name": "online-workout-organiser",
+  "version": "1.0.0",
+  "description": "Workout plan organiser - seo friendly SPA working both online and offline",
+  "main": "app.js",
+  "repository": "https://github.com/SlimDogs/workout-organiser.git",
+  "author": "Tautvydas Derzinskas",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "parse": "node parser.js"
+  },
+  "devDependencies": {
+    "cheerio": "1.0.0-rc.2",
+    "request": "2.83.0",
+    "cz-conventional-changelog": "2.1.0",
+    "image-downloader": "3.3.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
