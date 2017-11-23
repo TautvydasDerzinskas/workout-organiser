@@ -1,9 +1,9 @@
-const constants = require('./app/constants.js')
-const utilityService = require('./app/services/utilities.js')
+const constants = require('parser/constants.js')
+const utilityService = require('./parser/services/utilities.js')
 
-const categoriesService = require('./app/services/getCategories.js')
-const exercisesService = require('./app/services/getExercises.js')
-const detailsService = require('./app/services/getExerciseDetails.js')
+const categoriesService = require('./parser/services/getCategories.js')
+const exercisesService = require('./parser/services/getExercises.js')
+const detailsService = require('./parser/services/getExerciseDetails.js')
 
 class ExercisesParser {
   constructor () {
