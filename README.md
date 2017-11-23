@@ -7,6 +7,7 @@
 
 <p align="center">
   <a href="#" target="_blank"><img src="https://travis-ci.org/SlimDogs/workout-organiser.svg?branch=master" alt="Latest CI build status" title="Latest CI build status"></a>
+  <a href="https://codecov.io/gh/SlimDogs/workout-organiser"><img src="https://codecov.io/gh/SlimDogs/workout-organiser/branch/master/graph/badge.svg" alt="Codecov" /></a>
   <a href="https://greenkeeper.io" target="_blank"><img src="https://badges.greenkeeper.io/SlimDogs/workout-organiser.svg" alt="Greenkeeper" title="Greenkeeper"></a>
   <a href="https://standardjs.com" target="_blank"><img src="https://img.shields.io/badge/code_style-standard-brightgreen.svg" alt="Standard - JavaScript Style Guide" title="Standard - JavaScript Style Guide"></a>
   <a href="http://commitizen.github.io/cz-cli" target="_blank"><img src="https://img.shields.io/badge/commitizen-friendly-brightgreen.svg" alt="Commitizen friendly" title="Commitizen friendly"></a>

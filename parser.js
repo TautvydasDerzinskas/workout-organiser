@@ -1,4 +1,4 @@
-const constants = require('parser/constants.js')
+const constants = require('./parser/constants.js')
 const utilityService = require('./parser/services/utilities.js')
 
 const categoriesService = require('./parser/services/getCategories.js')

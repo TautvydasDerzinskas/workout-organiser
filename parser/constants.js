@@ -12,11 +12,11 @@ class Constants {
   }
 
   get assetsPath () {
-    return './assets/'
+    return './src/assets/images/'
   }
 
   get dbPath () {
-    return './db/'
+    return './src/assets/json/'
   }
 }
 

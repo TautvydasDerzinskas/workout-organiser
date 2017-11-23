@@ -1,6 +1,6 @@
 # Project specific
-/assets
-/db
+/src/assets/images
+/src/assets/json
 /coverage
 
 *.log
