@@ -44,7 +44,7 @@
     "cz-conventional-changelog": "2.1.0",
     "image-downloader": "3.3.0",
     "@angular/cli": "1.5.5",
-    "@angular/compiler-cli": "5.0.3",
+    "@angular/compiler-cli": "5.0.4",
     "@angular/language-service": "5.0.3",
     "@types/jasmine": "2.8.0",
     "@types/node": "8.0.53",
