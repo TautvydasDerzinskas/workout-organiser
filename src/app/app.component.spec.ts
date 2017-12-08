@@ -1,7 +1,7 @@
 import { TestBed, ComponentFixture } from '@angular/core/testing';
 import { CUSTOM_ELEMENTS_SCHEMA } from '@angular/core';
 
-import { AppModule } from '../app.module';
+import { AppModule } from './app.module';
 
 import { AppComponent } from './app.component';
 

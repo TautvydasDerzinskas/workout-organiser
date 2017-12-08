@@ -1,0 +1,20 @@
+// @import "~sass-ultimate-boilerplate/src/usb";
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,400i');
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans:900');
+
+@import "shared/styles/variables";
+
+body {
+  font-family: $primary-font-family;
+  font-size: $base-font-size;
+  color: $primary-black;
+  background-color: $primary-white;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $secondary-font-family;
+
+  > span {
+    color: $primary-theme;
+  }
+}

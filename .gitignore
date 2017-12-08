@@ -4,6 +4,7 @@
 /coverage
 
 *.log
+*.lock.json
 
 .idea
 .DS_Store
