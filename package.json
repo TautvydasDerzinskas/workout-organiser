@@ -37,7 +37,7 @@
     "core-js": "2.5.3",
     "rxjs": "5.5.6",
     "sass-ultimate-boilerplate": "2.0.1",
-    "zone.js": "0.8.18"
+    "zone.js": "0.8.19"
   },
   "devDependencies": {
     "cheerio": "1.0.0-rc.2",
