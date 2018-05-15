@@ -41,7 +41,7 @@
   },
   "devDependencies": {
     "cheerio": "1.0.0-rc.2",
-    "request": "2.83.0",
+    "request": "2.86.0",
     "cz-conventional-changelog": "2.1.0",
     "image-downloader": "3.3.0",
     "@angular/cli": "1.6.5",
