@@ -43,7 +43,7 @@
     "cheerio": "1.0.0-rc.2",
     "request": "2.83.0",
     "cz-conventional-changelog": "2.1.0",
-    "image-downloader": "3.3.0",
+    "image-downloader": "3.4.0",
     "@angular/cli": "1.6.5",
     "@angular/compiler-cli": "5.2.1",
     "@angular/language-service": "5.2.1",
