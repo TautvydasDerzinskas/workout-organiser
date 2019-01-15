@@ -52,7 +52,7 @@
     "cpy-cli": "1.0.1",
     "express": "4.16.2",
     "http-server": "0.11.0",
-    "reflect-metadata": "0.1.12",
+    "reflect-metadata": "0.1.13",
     "ts-loader": "3.3.0",
     "typescript": "2.6.2",
     "tslint": "5.9.0",
